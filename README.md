@@ -9,13 +9,16 @@ The project was built to practice **Object-Oriented Programming (OOP)** concepts
 
 ## 🧩 Project Structure
 
-├── Program.cs # Main file that runs the console menus
-│
-├── User.cs # Base abstract class for Vendor and Customer
-├── Vendor.cs # Vendor class for managing categories and products
-├── Customer.cs # Customer class for shopping and generating bills
-│
-├── Category.cs # Category class containing a list of products
-├── Product.cs # Product class with name, price, stock, etc.
-│
-└── README.md # Project description file
+ Program.cs # Main file that runs the console menus
+
+
+
+
+ User.cs # Base abstract class for Vendor and Customer
+ Vendor.cs # Vendor class for managing categories and products
+Customer.cs # Customer class for shopping and generating bills
+
+Category.cs # Category class containing a list of products
+ Product.cs # Product class with name, price, stock, etc.
+
+ README.md # Project description file
