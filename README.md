@@ -1,4 +1,4 @@
-# CA_Shop
+# CA_Store
 
 ## 🛒 Project Description
 This is a simple **C# console application** that simulates a small shop system.  
