@@ -1,7 +1,7 @@
 # CA_Store
 
 ## 🛒 Project Description
-This is a simple **C# console application** that simulates a small shop system.  
+This is a simple **C# console application** that simulates a small store system.  
 It allows a **vendor** to add and manage categories and products, and a **customer** to buy products, add them to a cart, and generate a bill.  
 The project was built to practice **Object-Oriented Programming (OOP)** concepts like classes, inheritance, and encapsulation.
 
